@@ -6,7 +6,8 @@ Projeto web para uma lista de afazeres, mas que futuramente servirá também com
 
 - [x] Iniciar projeto
 - [x] Criar base web
-- [ ] Estilização
+- [x] Estilização
+- [ ] Script
 - [ ] Electron
 - [ ] Banco de dados
 - [ ] Login
