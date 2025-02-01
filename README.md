@@ -4,8 +4,8 @@ Projeto web para uma lista de afazeres, mas que futuramente servirá também com
 
 ## Atualizações
 
-- [ ] Iniciar projeto
-- [ ] Criar base web
+- [x] Iniciar projeto
+- [x] Criar base web
 - [ ] Estilização
 - [ ] Electron
 - [ ] Banco de dados
