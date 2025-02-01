@@ -7,10 +7,10 @@ Projeto web para uma lista de afazeres, mas que futuramente servirá também com
 - [x] Iniciar projeto
 - [x] Criar base web
 - [x] Estilização
-- [ ] Script
+- [x] Script
+- [ ] Ajustar tamanho das colunas
 - [ ] Electron
-- [ ] Banco de dados
-- [ ] Login
+
 
 [![ UNLICENSE License](https://img.shields.io/badge/License-UNLICENSE-green.svg)](https://choosealicense.com/licenses/unlicense/)
 
